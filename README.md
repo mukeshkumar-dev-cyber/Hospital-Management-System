@@ -45,3 +45,14 @@ This project was developed to practice Python programming, database connectivity
 ## Disclaimer
 
 This is an educational project and is not intended for real hospital use or storage of actual patient information.
+
+## Application Screenshots
+
+### Login and Welcome Screen
+![Login Screen](screenshots/login.png)
+
+### Employee Dashboard
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
+### Patient Dashboard
+![Patient Dashboard](screenshots/patient-dashboard.png)
